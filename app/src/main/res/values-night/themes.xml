@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LECTION222" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+
+    <style name="ImageBtn" parent="Theme.AppCompat.DayNight">
+        <item name="tint">@color/pink</item>>
+
+    </style>>
+</resources>

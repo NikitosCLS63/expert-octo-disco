@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lECTION222</string>
+    <string name="winner_messeg">Поздравляю Вы выиграли!</string>
+    <string name="winner_messegPC">Компютер выиграл!</string>
+    <string name="draw_messeg">НИЧЬЯ</string>
+</resources>
